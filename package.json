@@ -1,0 +1,38 @@
+{
+  "name": "v13musicbot",
+  "version": "1.0.0",
+  "description": "A Discord Music Bot built with latest Discord Voice Features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Tomato6966/v13-music-bot"
+  },
+  "keywords": [
+    "Music",
+    "Bot",
+    "Discord",
+    "Discord-jsv13",
+    "v13",
+    "js",
+    "nodejs"
+  ],
+  "author": "Tomato6966",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "colors": "^1.4.0",
+    "cron": "^2.1.0",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-modals": "^1.3.6",
+    "discord.js": "^13.14.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "ms": "^2.1.3",
+    "pretty-ms": "^7.0.1",
+    "unix-timestamp": "^1.0.2"
+  }
+}

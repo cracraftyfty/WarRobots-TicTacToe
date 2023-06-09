@@ -1,0 +1,26 @@
+{
+    "status": false,
+    "prvs_user": "",
+    "players": [],
+    "board": [
+        [
+            false,
+            false,
+            false
+        ],
+        [
+            false,
+            false,
+            false
+        ],
+        [
+            false,
+            false,
+            false
+        ]
+    ],
+    "game": {
+        "size": 3,
+        "turn": 1
+    }
+}
